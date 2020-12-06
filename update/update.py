@@ -155,19 +155,18 @@ WIND_ROSE.update({_:np.nan for _ in ['C', 'VRB', np.nan]})
 def mean_weather(df):
     wdf = df[['viento_direccion', 'viento_velocidad']].dropna()
 
-    wdf['v_x'] = wdf['viento_velocidad'] * wdf['viento_direccion'].apply(np.cos)
-    wdf['v_y'] = wdf['viento_velocidad'] * wdf['viento_direccion'].apply(np.sin)
+    wdf['v_x'] = (1e-3 + wdf['viento_velocidad']) * wdf['viento_direccion'].apply(np.cos)
+    wdf['v_y'] = (1e-3 + wdf['viento_velocidad']) * wdf['viento_direccion'].apply(np.sin)
 
     wdf = wdf.mean()
 
-    if wdf['v_x'] == 0 and wdf['v_y'] == 0:
-        wdf['viento_direccion'] = 'C'
+    direction = np.arctan2(*zip(wdf[['v_y', 'v_x']]))
+    direction = pd.Series(direction)
+    direction[direction < 0] = direction[direction < 0]  + 2 * np.pi
 
-    else:
-        direction = np.arctan(wdf['v_y'] / (wdf['v_x'] + 1e-4))
-        wdf['viento_direccion'] = [*WIND_ROSE.keys()][
-            (pd.Series(WIND_ROSE.values()) - direction).abs().argmin()
-        ]
+    wdf['viento_direccion'] = [*WIND_ROSE.keys()][
+        (pd.Series(WIND_ROSE.values()) - direction.to_numpy()).abs().argmin()
+    ]
 
     df = df.mean()
 
