@@ -90,8 +90,6 @@ def fetch_single(estacion_id, estacion_name, _try=1):
         estacion_df = pd.read_html(req.content, decimal=',', thousands='.')
 
     except Exception as e: # :S
-        print(e)
-
         if _try > RETRY_M:
             return fetch_failover(estacion_id, estacion_name)
 
@@ -267,7 +265,7 @@ def update_status(data, date):
 
     with io.open('./README.md', mode='w', encoding='utf-8') as f:
         f.write(
-            '### Datos Metereologicos de Bolivia   \n\n'
+            '### Datos Meteorologicos de Bolivia   \n\n'
             '#### Estado {:10.10}:   \n\n'.format(str(date))
         )
 
