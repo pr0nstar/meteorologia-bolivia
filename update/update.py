@@ -90,6 +90,8 @@ def fetch_single(estacion_id, estacion_name, _try=1):
         estacion_df = pd.read_html(req.content, decimal=',', thousands='.')
 
     except Exception as e: # :S
+        print(e)
+
         if _try > RETRY_M:
             return fetch_failover(estacion_id, estacion_name)
 
@@ -118,7 +120,7 @@ def fetch():
     req = requests.get(URL, timeout=TIMEOUT * 3)
     mdf = pd.DataFrame([])
 
-    for table_row in BeautifulSoup(req.content).find_all('tr')[1:]:
+    for table_row in BeautifulSoup(req.content, 'lxml').find_all('tr')[1:]:
         link = table_row.find('a')
 
         if link is None or not link.has_attr('href'):
