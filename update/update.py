@@ -115,7 +115,7 @@ def fetch_single(estacion_id, estacion_name, _try=1):
 
 def fetch():
     URL = BASE_URL + '/grafest/jpGraph/graficas/scriptEstaciones_prueba.php'
-    req = requests.get(URL, timeout=TIMEOUT * 3)
+    req = requests.get(URL, timeout=TIMEOUT * 6)
     mdf = pd.DataFrame([])
 
     for table_row in BeautifulSoup(req.content, 'lxml').find_all('tr')[1:]:
