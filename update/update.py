@@ -223,7 +223,10 @@ def merge_data(mdf):
             options['header'] = False
 
         today_data = resample_df(today_data, freq='H')
-        today_data = today_data.unstack(level=2)
+        try:
+            today_data = today_data.unstack(level=2)
+        except:
+            pass
 
         today_data = today_data[tomorrow_data.columns]
         today_data = today_data.astype(
@@ -245,7 +248,7 @@ def update_status(data, date):
     status = pd.DataFrame([*data.index])
     status.columns = ['fecha_ultima_actualizacion', 'estacion']
     status['fecha_ultima_actualizacion'] = pd.to_datetime(
-        status['fecha_ultima_actualizacion']
+        status['fecha_ultima_actualizacion'], utc=True
     )
 
     status = status.groupby('estacion').max()
