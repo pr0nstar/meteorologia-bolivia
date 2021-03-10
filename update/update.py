@@ -102,6 +102,9 @@ def fetch_single(estacion_id, estacion_name, _try=1):
     estacion_df = estacion_df[0]
     estacion_df.columns = COLUMNS
 
+    if len(estacion_df.replace('*', np.nan).iloc[:, 2:].dropna(how='all')) == 0:
+        return fetch_failover(estacion_id, estacion_name)
+
     time_index = pd.to_datetime(
         estacion_df['fecha'],
         dayfirst=not estacion_df['fecha'].str.match(r'^\d{4}.*').any()
