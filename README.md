@@ -1,6 +1,6 @@
 ### Datos Meteorologicos de Bolivia   
 
-#### Estado 2021-05-17:   
+#### Estado 2021-05-18:   
 
 | estacion                       | fecha_ultima_actualizacion   |
 |:-------------------------------|:-----------------------------|
@@ -39,65 +39,65 @@
 | Toledo (GPRS)                  | 2021-05-18 11:00:00+00:00    |
 | Yacuiba                        | 2021-05-18 19:00:00+00:00    |
 | San Julian (GPRS)              | 2021-05-18 19:45:00+00:00    |
-| Cuatro Cañadas - CEA-2 (GPRS)  | 2021-05-18 20:00:00+00:00    |
-| Cuatro Cañadas (GPRS)          | 2021-05-18 20:00:00+00:00    |
 | S Julian - Nucleo 32 (GPRS)    | 2021-05-18 20:00:00+00:00    |
+| Cuatro Cañadas - CEA-2 (GPRS)  | 2021-05-18 20:00:00+00:00    |
 | Pailon (GPRS)                  | 2021-05-18 20:00:00+00:00    |
+| Cuatro Cañadas (GPRS)          | 2021-05-18 20:00:00+00:00    |
 | S Antonio - Los Angeles (GPRS) | 2021-05-19 00:00:00+00:00    |
-| Huacata_M (GPRS)               | 2021-05-19 05:00:00+00:00    |
-| Laguna Tuni - GPRS             | 2021-05-19 05:00:00+00:00    |
-| Presa Yana Khakha_M (GPRS)     | 2021-05-19 05:00:00+00:00    |
-| Tacagua_M (GPRS)               | 2021-05-19 05:00:00+00:00    |
-| Presa Calderas_M (GPRS)        | 2021-05-19 05:00:00+00:00    |
-| Presa El Peral_M (GPRS)        | 2021-05-19 05:00:00+00:00    |
-| Quila Quila_M (GPRS)           | 2021-05-19 05:00:00+00:00    |
-| Ravelo_M (GPRS)                | 2021-05-19 05:00:00+00:00    |
-| Toma Ravelo_H (GPRS)           | 2021-05-19 05:00:00+00:00    |
-| Tiraque_M (GPRS)               | 2021-05-19 05:00:00+00:00    |
-| Parotani - Sipe Sipe (GPRS)    | 2021-05-19 05:00:00+00:00    |
-| San Jacinto_M (GPRS)           | 2021-05-19 05:00:00+00:00    |
-| Tapacari (GPRS)                | 2021-05-19 05:00:00+00:00    |
+| Toma Ravelo_H (GPRS)           | 2021-05-19 07:00:00+00:00    |
+| Quila Quila_M (GPRS)           | 2021-05-19 07:00:00+00:00    |
 | Atulcha (GPRS)                 | 2021-05-19 07:00:00+00:00    |
-| Laykakota-GPRS                 | 2021-05-19 07:45:00+00:00    |
+| Huacata_M (GPRS)               | 2021-05-19 07:00:00+00:00    |
+| Ravelo_M (GPRS)                | 2021-05-19 07:00:00+00:00    |
 | Chipayas - GPRS                | 2021-05-19 07:45:00+00:00    |
+| Laykakota-GPRS                 | 2021-05-19 07:45:00+00:00    |
 | Sucre - GPRS                   | 2021-05-19 08:00:00+00:00    |
-| Cobija                         | 2021-05-19 11:00:00+00:00    |
-| Viru Viru                      | 2021-05-19 11:00:00+00:00    |
 | Villamontes                    | 2021-05-19 11:00:00+00:00    |
-| Trinidad                       | 2021-05-19 11:00:00+00:00    |
-| Potosi                         | 2021-05-19 11:00:00+00:00    |
-| El Trompillo                   | 2021-05-19 11:00:00+00:00    |
 | Camiri                         | 2021-05-19 11:00:00+00:00    |
-| Puerto Suarez                  | 2021-05-19 11:00:00+00:00    |
-| Santa Ana - Yacuma             | 2021-05-19 11:00:00+00:00    |
-| El Alto                        | 2021-05-19 11:00:00+00:00    |
+| Trinidad                       | 2021-05-19 11:00:00+00:00    |
+| Cobija                         | 2021-05-19 11:00:00+00:00    |
+| Concepcion                     | 2021-05-19 11:00:00+00:00    |
 | Tarija                         | 2021-05-19 11:00:00+00:00    |
+| El Trompillo                   | 2021-05-19 11:00:00+00:00    |
+| Santa Ana - Yacuma             | 2021-05-19 11:00:00+00:00    |
+| Reyes                          | 2021-05-19 11:00:00+00:00    |
+| Magdalena                      | 2021-05-19 11:00:00+00:00    |
 | Riberalta                      | 2021-05-19 11:00:00+00:00    |
+| Oruro                          | 2021-05-19 11:00:00+00:00    |
+| San Joaquin                    | 2021-05-19 11:00:00+00:00    |
+| San Ignacio de Velasco         | 2021-05-19 11:00:00+00:00    |
+| Potosi                         | 2021-05-19 11:00:00+00:00    |
 | Robore                         | 2021-05-19 11:00:00+00:00    |
 | Rurrenabaque                   | 2021-05-19 11:00:00+00:00    |
-| Concepcion                     | 2021-05-19 11:00:00+00:00    |
-| Magdalena                      | 2021-05-19 11:00:00+00:00    |
-| San Ignacio de Velasco         | 2021-05-19 11:00:00+00:00    |
-| Cochabamba                     | 2021-05-19 11:00:00+00:00    |
-| San Joaquin                    | 2021-05-19 11:00:00+00:00    |
+| Puerto Suarez                  | 2021-05-19 11:00:00+00:00    |
 | San Jose de Chiquitos          | 2021-05-19 11:00:00+00:00    |
-| Oruro                          | 2021-05-19 11:00:00+00:00    |
-| Reyes                          | 2021-05-19 11:00:00+00:00    |
-| Orinoca - UTO (GPRS)           | 2021-05-19 12:15:00+00:00    |
-| San Roque - El Alto (GPRS)     | 2021-05-19 13:00:00+00:00    |
-| Colcha-K (GPRS)                | 2021-05-19 13:00:00+00:00    |
-| San Juan del Rosario (GPRS)    | 2021-05-19 13:00:00+00:00    |
 | Patacamaya (GPRS)              | 2021-05-19 13:15:00+00:00    |
-| Pasorapa (GPRS)                | 2021-05-19 13:15:00+00:00    |
-| Alalay (GPRS)                  | 2021-05-19 13:15:00+00:00    |
-| Wila Cala (GPRS)               | 2021-05-19 13:30:00+00:00    |
-| Sacabamba (GPRS)               | 2021-05-19 13:45:00+00:00    |
-| Aroma (GPRS)                   | 2021-05-19 14:00:00+00:00    |
-| Quillacas (GPRS)               | 2021-05-19 14:00:00+00:00    |
-| Chachacomani-Batallas (GPRS)   | 2021-05-19 14:00:00+00:00    |
-| El Tranque (GPRS)              | 2021-05-19 14:00:00+00:00    |
-| El Villar (GPRS)               | 2021-05-19 14:00:00+00:00    |
-| Incahuasi (GPRS)               | 2021-05-19 14:00:00+00:00    |
+| San Juan del Rosario (GPRS)    | 2021-05-19 14:00:00+00:00    |
+| Colcha-K (GPRS)                | 2021-05-19 14:00:00+00:00    |
+| Alalay (GPRS)                  | 2021-05-19 14:15:00+00:00    |
+| Pasorapa (GPRS)                | 2021-05-19 14:15:00+00:00    |
+| Quillacas (GPRS)               | 2021-05-19 15:00:00+00:00    |
+| Orinoca - UTO (GPRS)           | 2021-05-19 15:15:00+00:00    |
+| Sacabamba (GPRS)               | 2021-05-19 15:45:00+00:00    |
+| Laguna Tuni - GPRS             | 2021-05-19 16:00:00+00:00    |
+| San Jacinto_M (GPRS)           | 2021-05-19 16:45:00+00:00    |
+| Parotani - Sipe Sipe (GPRS)    | 2021-05-19 17:00:00+00:00    |
+| Tiraque_M (GPRS)               | 2021-05-19 17:00:00+00:00    |
+| Tacagua_M (GPRS)               | 2021-05-19 17:00:00+00:00    |
+| Tapacari (GPRS)                | 2021-05-19 17:00:00+00:00    |
+| Presa Yana Khakha_M (GPRS)     | 2021-05-19 17:30:00+00:00    |
+| Presa Calderas_M (GPRS)        | 2021-05-19 17:30:00+00:00    |
+| Presa El Peral_M (GPRS)        | 2021-05-19 17:45:00+00:00    |
+| Incahuasi (GPRS)               | 2021-05-19 22:00:00+00:00    |
+| El Alto                        | 2021-05-19 23:00:00+00:00    |
+| Viru Viru                      | 2021-05-19 23:00:00+00:00    |
+| Cochabamba                     | 2021-05-19 23:00:00+00:00    |
+| San Roque - El Alto (GPRS)     | 2021-05-20 02:00:00+00:00    |
+| El Tranque (GPRS)              | 2021-05-20 02:00:00+00:00    |
+| Chachacomani-Batallas (GPRS)   | 2021-05-20 02:00:00+00:00    |
+| Aroma (GPRS)                   | 2021-05-20 02:00:00+00:00    |
+| Wila Cala (GPRS)               | 2021-05-20 02:00:00+00:00    |
+| El Villar (GPRS)               | 2021-05-20 02:00:00+00:00    |
 
 #### Meta:   
 
