@@ -1,6 +1,6 @@
 ### Datos Meteorologicos de Bolivia   
 
-#### Estado 2021-07-08:   
+#### Estado 2021-07-09:   
 
 | estacion                                  | fecha_ultima_actualizacion   |
 |:------------------------------------------|:-----------------------------|
@@ -15,9 +15,9 @@
 | Tomina (GPRS)                             | 2021-05-16 15:00:00+00:00    |
 | S Pedro - Rio Victoria (GPRS)             | 2021-05-17 20:00:00+00:00    |
 | San Julian (GPRS)                         | 2021-05-18 19:45:00+00:00    |
-| Cuatro Cañadas (GPRS)                     | 2021-05-18 20:00:00+00:00    |
-| S Julian - Nucleo 32 (GPRS)               | 2021-05-18 20:00:00+00:00    |
 | Pailon (GPRS)                             | 2021-05-18 20:00:00+00:00    |
+| S Julian - Nucleo 32 (GPRS)               | 2021-05-18 20:00:00+00:00    |
+| Cuatro Cañadas (GPRS)                     | 2021-05-18 20:00:00+00:00    |
 | S Antonio - Los Angeles (GPRS)            | 2021-05-19 00:00:00+00:00    |
 | Caigua (GPRS)                             | 2021-05-22 13:00:00+00:00    |
 | Quillacas (GPRS)                          | 2021-06-12 15:00:00+00:00    |
@@ -38,74 +38,74 @@
 | Incahuasi (GPRS)                          | 2021-07-04 23:00:00+00:00    |
 | Omereque - SDC (GPRS)                     | 2021-07-06 19:00:00+00:00    |
 | Vacas - SDC (GPRS)                        | 2021-07-06 19:00:00+00:00    |
-| Linkupata_M (GPRS)                        | 2021-07-06 20:00:00+00:00    |
-| Vivero Viloma - SDC (GPRS)                | 2021-07-06 20:00:00+00:00    |
-| Vila Vila - SDC (GPRS)                    | 2021-07-06 20:00:00+00:00    |
-| Pocona - SDC (GPRS)                       | 2021-07-06 20:00:00+00:00    |
-| Vivero Chimboco - SDC (GPRS)              | 2021-07-06 20:00:00+00:00    |
-| Sauce Pilata - SDC (GPRS)                 | 2021-07-06 20:00:00+00:00    |
-| Pojo - SDC (GPRS)                         | 2021-07-06 20:00:00+00:00    |
-| Temporal - SDC (GPRS)                     | 2021-07-06 20:00:00+00:00    |
 | Mizque - SDC (GPRS)                       | 2021-07-06 20:00:00+00:00    |
+| Temporal - SDC (GPRS)                     | 2021-07-06 20:00:00+00:00    |
+| Pojo - SDC (GPRS)                         | 2021-07-06 20:00:00+00:00    |
+| Sauce Pilata - SDC (GPRS)                 | 2021-07-06 20:00:00+00:00    |
+| Vivero Chimboco - SDC (GPRS)              | 2021-07-06 20:00:00+00:00    |
+| Pocona - SDC (GPRS)                       | 2021-07-06 20:00:00+00:00    |
+| Vila Vila - SDC (GPRS)                    | 2021-07-06 20:00:00+00:00    |
+| Vivero Viloma - SDC (GPRS)                | 2021-07-06 20:00:00+00:00    |
+| Linkupata_M (GPRS)                        | 2021-07-06 20:00:00+00:00    |
 | La Angostura_M (GPRS)                     | 2021-07-07 16:00:00+00:00    |
-| San Pedro - San Antonio (GPRS)            | 2021-07-07 19:45:00+00:00    |
-| San Pedro - Rio Victoria (GPRS)           | 2021-07-07 20:00:00+00:00    |
-| Pailon - Pozo del Tigre (GPRS)            | 2021-07-07 21:00:00+00:00    |
-| Laguna Tuni - GPRS                        | 2021-07-08 16:00:00+00:00    |
-| San Jacinto_M (GPRS)                      | 2021-07-08 16:45:00+00:00    |
-| Tiraque_M (GPRS)                          | 2021-07-08 17:00:00+00:00    |
-| Colcha-K (GPRS)                           | 2021-07-08 17:00:00+00:00    |
-| Villamontes                               | 2021-07-08 17:00:00+00:00    |
-| Atulcha (GPRS)                            | 2021-07-08 17:00:00+00:00    |
-| Tapacari (GPRS)                           | 2021-07-08 17:00:00+00:00    |
 | El Villar (GPRS)                          | 2021-07-08 17:00:00+00:00    |
-| San Juan del Rosario (GPRS)               | 2021-07-08 17:00:00+00:00    |
-| Potosi                                    | 2021-07-08 17:00:00+00:00    |
-| Parotani - Sipe Sipe (GPRS)               | 2021-07-08 17:00:00+00:00    |
-| Tacagua_M (GPRS)                          | 2021-07-08 17:00:00+00:00    |
-| Huacata_M (GPRS)                          | 2021-07-08 17:00:00+00:00    |
-| Pasorapa (GPRS)                           | 2021-07-08 17:15:00+00:00    |
-| Orinoca - UTO (GPRS)                      | 2021-07-08 17:15:00+00:00    |
-| Alalay (GPRS)                             | 2021-07-08 17:15:00+00:00    |
-| Presa Calderas_M (GPRS)                   | 2021-07-08 17:30:00+00:00    |
-| Quila Quila_M (GPRS)                      | 2021-07-08 17:45:00+00:00    |
-| Presa Yana Khakha_M (GPRS)                | 2021-07-08 17:45:00+00:00    |
-| Presa El Peral_M (GPRS)                   | 2021-07-08 17:45:00+00:00    |
-| Ravelo_M (GPRS)                           | 2021-07-08 17:45:00+00:00    |
-| Cuatro Cañadas - CEA-2 (GPRS)             | 2021-07-08 17:45:00+00:00    |
-| San Julian - Nucleo 32 (GPRS)             | 2021-07-08 17:45:00+00:00    |
-| Cuatro Cañadas - Colonia Chihuahua (GPRS) | 2021-07-08 17:45:00+00:00    |
-| San Julian - Comunidad Los Angeles (GPRS) | 2021-07-08 17:45:00+00:00    |
-| Toma Ravelo_H (GPRS)                      | 2021-07-08 17:45:00+00:00    |
-| Sacabamba (GPRS)                          | 2021-07-08 17:45:00+00:00    |
-| Peña Amarilla - GPRS                      | 2021-07-08 17:45:00+00:00    |
-| Oruro                                     | 2021-07-08 18:00:00+00:00    |
-| Yacuiba                                   | 2021-07-08 19:00:00+00:00    |
 | El Tranque (GPRS)                         | 2021-07-08 19:00:00+00:00    |
-| Laykakota-GPRS                            | 2021-07-08 19:30:00+00:00    |
+| San Pedro - Rio Victoria (GPRS)           | 2021-07-08 20:00:00+00:00    |
+| San Pedro - San Antonio (GPRS)            | 2021-07-08 20:00:00+00:00    |
 | Comarapa (GPRS)                           | 2021-07-08 21:00:00+00:00    |
-| Reyes                                     | 2021-07-08 22:00:00+00:00    |
-| Rurrenabaque                              | 2021-07-08 22:00:00+00:00    |
-| Concepcion                                | 2021-07-08 22:00:00+00:00    |
-| San Joaquin                               | 2021-07-08 22:00:00+00:00    |
-| Puerto Suarez                             | 2021-07-08 22:00:00+00:00    |
-| Riberalta                                 | 2021-07-08 23:00:00+00:00    |
-| Robore                                    | 2021-07-08 23:00:00+00:00    |
-| Santa Ana - Yacuma                        | 2021-07-08 23:00:00+00:00    |
-| Magdalena                                 | 2021-07-08 23:00:00+00:00    |
-| El Trompillo                              | 2021-07-08 23:00:00+00:00    |
-| Trinidad                                  | 2021-07-08 23:00:00+00:00    |
-| Cobija                                    | 2021-07-08 23:00:00+00:00    |
-| Camiri                                    | 2021-07-08 23:00:00+00:00    |
-| Tarija                                    | 2021-07-09 00:00:00+00:00    |
-| Sucre - GPRS                              | 2021-07-09 01:45:00+00:00    |
-| Chipayas - GPRS                           | 2021-07-09 01:45:00+00:00    |
-| Cochabamba                                | 2021-07-09 02:00:00+00:00    |
-| Chachacomani-Batallas (GPRS)              | 2021-07-09 02:00:00+00:00    |
-| El Alto                                   | 2021-07-09 02:00:00+00:00    |
-| Aroma (GPRS)                              | 2021-07-09 02:00:00+00:00    |
-| Viru Viru                                 | 2021-07-09 02:00:00+00:00    |
-| Wila Cala (GPRS)                          | 2021-07-09 02:00:00+00:00    |
+| Pailon - Pozo del Tigre (GPRS)            | 2021-07-08 22:00:00+00:00    |
+| Atulcha (GPRS)                            | 2021-07-09 02:00:00+00:00    |
+| Colcha-K (GPRS)                           | 2021-07-09 02:00:00+00:00    |
+| San Juan del Rosario (GPRS)               | 2021-07-09 02:00:00+00:00    |
+| Pasorapa (GPRS)                           | 2021-07-09 02:15:00+00:00    |
+| Orinoca - UTO (GPRS)                      | 2021-07-09 02:15:00+00:00    |
+| Alalay (GPRS)                             | 2021-07-09 02:15:00+00:00    |
+| Sacabamba (GPRS)                          | 2021-07-09 02:45:00+00:00    |
+| Peña Amarilla - GPRS                      | 2021-07-09 02:45:00+00:00    |
+| San Jacinto_M (GPRS)                      | 2021-07-09 03:00:00+00:00    |
+| Presa Yana Khakha_M (GPRS)                | 2021-07-09 04:45:00+00:00    |
+| Quila Quila_M (GPRS)                      | 2021-07-09 05:00:00+00:00    |
+| Huacata_M (GPRS)                          | 2021-07-09 05:00:00+00:00    |
+| Parotani - Sipe Sipe (GPRS)               | 2021-07-09 05:00:00+00:00    |
+| Laguna Tuni - GPRS                        | 2021-07-09 05:00:00+00:00    |
+| Presa Calderas_M (GPRS)                   | 2021-07-09 05:00:00+00:00    |
+| Tacagua_M (GPRS)                          | 2021-07-09 05:00:00+00:00    |
+| Ravelo_M (GPRS)                           | 2021-07-09 05:00:00+00:00    |
+| Toma Ravelo_H (GPRS)                      | 2021-07-09 05:00:00+00:00    |
+| San Julian - Nucleo 32 (GPRS)             | 2021-07-09 05:00:00+00:00    |
+| Tiraque_M (GPRS)                          | 2021-07-09 05:00:00+00:00    |
+| Tapacari (GPRS)                           | 2021-07-09 05:00:00+00:00    |
+| Presa El Peral_M (GPRS)                   | 2021-07-09 05:00:00+00:00    |
+| San Julian - Comunidad Los Angeles (GPRS) | 2021-07-09 05:45:00+00:00    |
+| Cuatro Cañadas - CEA-2 (GPRS)             | 2021-07-09 05:45:00+00:00    |
+| Cuatro Cañadas - Colonia Chihuahua (GPRS) | 2021-07-09 05:45:00+00:00    |
+| Laykakota-GPRS                            | 2021-07-09 06:45:00+00:00    |
+| Reyes                                     | 2021-07-09 12:00:00+00:00    |
+| Magdalena                                 | 2021-07-09 12:00:00+00:00    |
+| Robore                                    | 2021-07-09 12:00:00+00:00    |
+| Riberalta                                 | 2021-07-09 12:00:00+00:00    |
+| Camiri                                    | 2021-07-09 12:00:00+00:00    |
+| Rurrenabaque                              | 2021-07-09 12:00:00+00:00    |
+| San Joaquin                               | 2021-07-09 12:00:00+00:00    |
+| Concepcion                                | 2021-07-09 12:00:00+00:00    |
+| Oruro                                     | 2021-07-09 12:00:00+00:00    |
+| Santa Ana - Yacuma                        | 2021-07-09 13:00:00+00:00    |
+| El Trompillo                              | 2021-07-09 13:00:00+00:00    |
+| Puerto Suarez                             | 2021-07-09 13:00:00+00:00    |
+| Potosi                                    | 2021-07-09 13:00:00+00:00    |
+| Cobija                                    | 2021-07-09 13:00:00+00:00    |
+| Chachacomani-Batallas (GPRS)              | 2021-07-09 13:00:00+00:00    |
+| Tarija                                    | 2021-07-09 13:00:00+00:00    |
+| Aroma (GPRS)                              | 2021-07-09 13:00:00+00:00    |
+| Trinidad                                  | 2021-07-09 13:00:00+00:00    |
+| Villamontes                               | 2021-07-09 13:00:00+00:00    |
+| Yacuiba                                   | 2021-07-09 13:00:00+00:00    |
+| Wila Cala (GPRS)                          | 2021-07-09 13:15:00+00:00    |
+| Chipayas - GPRS                           | 2021-07-09 13:45:00+00:00    |
+| Sucre - GPRS                              | 2021-07-09 13:45:00+00:00    |
+| El Alto                                   | 2021-07-09 14:00:00+00:00    |
+| Cochabamba                                | 2021-07-09 14:00:00+00:00    |
+| Viru Viru                                 | 2021-07-09 14:00:00+00:00    |
 
 #### Meta:   
 
